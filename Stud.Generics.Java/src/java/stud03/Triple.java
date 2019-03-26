@@ -2,8 +2,6 @@ package java.stud03;
 
 public class Triple < T1, T2, T3 > extends Tuple3 < T1, T3> {
 
-
-
     private final T2 middle;
 
 
