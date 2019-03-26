@@ -19,7 +19,4 @@ public class Tuple < T > {
     public T getRight() {
         return right;
     }
-
-
-
 }
